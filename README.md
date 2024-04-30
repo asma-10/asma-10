@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about AI and data science</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently learning about **LLMs with Llamaindex**
 
 - 📫 How to reach me **asmabourouba10@gmail.com**
 
