@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm BOUROUBA asma</h1>
-<h3 align="center">I am passionate about AI and data science</h3>
+<h3 align="center">I am passionate about AI and automation</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-- 🌱 I’m currently learning about **RAG **
+- 🌱 I’m currently learning about **LangGraph **
 
 - 📫 How to reach me **asmabourouba10@gmail.com**
 
